@@ -1,0 +1,19 @@
+path: C:/Users/김종순/Desktop/MICT/bicycle/dataset
+train: train/images
+val: val/images
+
+names:
+  0: A01
+  1: B01
+  2: B02
+  3: B04
+  4: B05
+  5: C01
+  6: C02
+  7: C05
+  8: D01
+  9: D02
+  10: D03
+  11: D04
+  12: E02
+  13: E03
